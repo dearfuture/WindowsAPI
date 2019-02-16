@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.1_CreateProcess", "6.1_CreateProcess\6.1_CreateProcess.vcxproj", "{147C84F2-D781-45DD-BB24-B19C35B496C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Child", "Child\Child.vcxproj", "{D723C073-DD5E-4DE4-9B43-97E942160440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147C84F2-D781-45DD-BB24-B19C35B496C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{147C84F2-D781-45DD-BB24-B19C35B496C6}.Debug|Win32.Build.0 = Debug|Win32
+		{147C84F2-D781-45DD-BB24-B19C35B496C6}.Release|Win32.ActiveCfg = Release|Win32
+		{147C84F2-D781-45DD-BB24-B19C35B496C6}.Release|Win32.Build.0 = Release|Win32
+		{D723C073-DD5E-4DE4-9B43-97E942160440}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D723C073-DD5E-4DE4-9B43-97E942160440}.Debug|Win32.Build.0 = Debug|Win32
+		{D723C073-DD5E-4DE4-9B43-97E942160440}.Release|Win32.ActiveCfg = Release|Win32
+		{D723C073-DD5E-4DE4-9B43-97E942160440}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

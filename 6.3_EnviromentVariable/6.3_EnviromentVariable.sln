@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.3_EnviromentVariable", "6.3_EnviromentVariable\6.3_EnviromentVariable.vcxproj", "{8AD350A5-28B0-4E4B-BE06-49D717DF944B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD350A5-28B0-4E4B-BE06-49D717DF944B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8AD350A5-28B0-4E4B-BE06-49D717DF944B}.Debug|Win32.Build.0 = Debug|Win32
+		{8AD350A5-28B0-4E4B-BE06-49D717DF944B}.Release|Win32.ActiveCfg = Release|Win32
+		{8AD350A5-28B0-4E4B-BE06-49D717DF944B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

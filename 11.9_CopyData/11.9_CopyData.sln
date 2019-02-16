@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.9_CopyData", "11.9_CopyData\11.9_CopyData.vcxproj", "{8F88B6D0-B841-46FE-98BD-2D82CACDD58E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecvCopyData", "RecvCopyData\RecvCopyData.vcxproj", "{24B41B86-59D5-410E-94F3-BD36C087EA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F88B6D0-B841-46FE-98BD-2D82CACDD58E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F88B6D0-B841-46FE-98BD-2D82CACDD58E}.Debug|Win32.Build.0 = Debug|Win32
+		{8F88B6D0-B841-46FE-98BD-2D82CACDD58E}.Release|Win32.ActiveCfg = Release|Win32
+		{8F88B6D0-B841-46FE-98BD-2D82CACDD58E}.Release|Win32.Build.0 = Release|Win32
+		{24B41B86-59D5-410E-94F3-BD36C087EA04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24B41B86-59D5-410E-94F3-BD36C087EA04}.Debug|Win32.Build.0 = Debug|Win32
+		{24B41B86-59D5-410E-94F3-BD36C087EA04}.Release|Win32.ActiveCfg = Release|Win32
+		{24B41B86-59D5-410E-94F3-BD36C087EA04}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

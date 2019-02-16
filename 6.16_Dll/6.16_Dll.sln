@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.16_Dll", "6.16_Dll\6.16_Dll.vcxproj", "{5D86B291-01D9-4FBF-AA26-BF37F0F61D52}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgDll", "MsgDll\MsgDll.vcxproj", "{6D669FE7-5730-45DD-9CEC-8056B668C03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D86B291-01D9-4FBF-AA26-BF37F0F61D52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D86B291-01D9-4FBF-AA26-BF37F0F61D52}.Debug|Win32.Build.0 = Debug|Win32
+		{5D86B291-01D9-4FBF-AA26-BF37F0F61D52}.Release|Win32.ActiveCfg = Release|Win32
+		{5D86B291-01D9-4FBF-AA26-BF37F0F61D52}.Release|Win32.Build.0 = Release|Win32
+		{6D669FE7-5730-45DD-9CEC-8056B668C03E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D669FE7-5730-45DD-9CEC-8056B668C03E}.Debug|Win32.Build.0 = Debug|Win32
+		{6D669FE7-5730-45DD-9CEC-8056B668C03E}.Release|Win32.ActiveCfg = Release|Win32
+		{6D669FE7-5730-45DD-9CEC-8056B668C03E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
